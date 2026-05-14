@@ -1,8 +1,5 @@
 # CG-Lab6
 
-这是一份为你量身定制的 `README.md`，旨在以专业且易于理解的方式介绍这个基于 **PyTorch3D** 的可微渲染实验。它涵盖了环境配置、核心原理以及如何运行该项目。
-
----
 
 # 3D Mesh Reconstruction via Differentiable Rendering
 
