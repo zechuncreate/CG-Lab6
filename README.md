@@ -1,6 +1,6 @@
 # CG-Lab6
 
-
+杜秋扬202411180016环境
 # 3D Mesh Reconstruction via Differentiable Rendering
 
 本项目展示了如何利用 **可微渲染（Differentiable Rendering）** 技术，将一个初始的 3D 球体（IcoSphere）逐步变形为目标物体（如经典的奶牛模型）的形状。
